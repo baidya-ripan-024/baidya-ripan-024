@@ -1,4 +1,4 @@
-# 👤 Who I Am
+# 👤 About me
 
 I am a passionate Java Developer with a solid background in Java, Spring Boot, Microservices, and databases. I have worked on several self-directed projects and learned various technologies along the way. I love taking on challenges and have the capability to step out of my comfort zone to achieve what i want. Currently looking for a role as a Software Developer.
 

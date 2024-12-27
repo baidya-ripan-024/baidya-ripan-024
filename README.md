@@ -4,8 +4,8 @@ I am a passionate Java Developer with a solid background in Java, Spring Boot, M
 
 # 📞 Contact Me
 
-[![Phone](https://img.shields.io/badge/Phone-%23000000.svg?logo=phone&logoColor=white)](tel:+917980717584) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ripanbaidya7980@gmail.com) 
+[![Phone](https://img.shields.io/badge/Phone-%23000000.svg?logo=phone&logoColor=white)](tel:+xxxxxxxxxx) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:***) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripan-baidya-9230412a6) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ripanbaidya2004) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/baidyaripan08/)

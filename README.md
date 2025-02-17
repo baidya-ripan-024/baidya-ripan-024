@@ -1,6 +1,6 @@
 # 👤 About me
 
-I am a passionate Java Developer with a solid background in Java, Spring Boot, Microservices, and databases. I have worked on several self-directed projects and learned various technologies along the way. I love taking on challenges and have the capability to step out of my comfort zone to achieve what i want. Currently looking for a role as a Software Developer.
+I am a passionate Java Developer with a solid background in Java, Spring Boot, Microservices, and databases. I have worked on several self-directed projects and learned various technologies along the way. I love taking on challenges and have the capability to step out of my comfort zone to achieve what i want.
 
 # 🌐 Connect with Me
 <a href="https://leetcode.com/u/baidyaripan08/">
@@ -13,7 +13,7 @@ I am a passionate Java Developer with a solid background in Java, Spring Boot, M
 # 💻 Technical Skills
 
   <img src="https://skillicons.dev/icons?i=java,spring,cpp,cs,python,html,css,js,react" alt="techstack" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,maven,git,github,graphql" alt="techstack" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,maven,git,github,graphql,kafka,rabbitmq" alt="techstack" />
   <img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS,CI-CD" />
 
 # 📈 GitHub Contributions

@@ -12,7 +12,7 @@ I am a passionate Java Developer with a solid background in Java, Spring Boot, M
 
 # 💻 Technical Skills
 
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,cs,python,html,css,js,react" alt="techstack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,cs,python,html,css,js" alt="techstack" />
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,maven,git,github,graphql,kafka,rabbitmq" alt="techstack" />
   <img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS,CI-CD" />
 

@@ -3,7 +3,7 @@
 I am a passionate Java developer with a strong background in Java, Spring Boot, microservices, and databases.
 
 # 🌐 Connect with Me
-<a href="https://leetcode.com/u/ryan24/">
+<a href="https://leetcode.com/u/ryan024/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/ripan-baidya-9230412a6/">

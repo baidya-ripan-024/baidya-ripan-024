@@ -1,6 +1,6 @@
 # 👤 About me
 
-passionate Java Developer with a solid background in Java, Spring Boot, Microservices, and databases.
+I am a passionate Java developer with a strong background in Java, Spring Boot, microservices, and databases.
 
 # 🌐 Connect with Me
 <a href="https://leetcode.com/u/ryan24/">

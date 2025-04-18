@@ -66,15 +66,17 @@
 <div align="center">
     <a href="https://github.com/ripanbaidya08">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripanbaidya08&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ripanbaidya08&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripanbaidya08&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ripanbaidya08&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ripanbaidya08&theme=2077" height="180em" />
 </div>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripanbaidya08&" alt="ali-bouali" /></p>
+<p align="center" style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripanbaidya08&" alt="ripan-08" /></p>
 
 
+<h3 align="left">🏆 Leetcode Journey</h3>
 
+<!-- leetocde details-->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ryan024?theme=unicorn&font=Roboto&ext=contest" alt="LeetCode Stats">
+</p>
 
 

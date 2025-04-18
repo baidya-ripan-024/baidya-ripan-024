@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ripan Badya</h1>
-<h3 align="center">A passionate <b>Java developer</b> from India🌍, currently based in Kolkata.</h3> 
+<div align="center">
+  <img width="800" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ripan+Badya%21+%F0%9F%91%8B;Java+Developer+from+Kolkata%2C+India.;Let's+Connect+%F0%9F%9A%80" />
+</div>
 
+<!--  Description -->
+<p align="center">
+  I'm a passionate <b>Java Developer</b> from <b>Kolkata, India</b> with 6+ months of hands-on experience. <br/>
+  Currently focused on enhancing my skills in <b>Spring Boot</b>, <b>Microservices</b>, <b>Databases</b>, and <b>Problem Solving</b>. <br/>
+  Aspiring to become a <b>Software Engineer</b>. Let's connect and grow together! 🚀
+</p>
+
+<!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripanbaidya08&label=Profile%20views&color=0e75b6&style=flat" alt="ripan-baidya" /> </p>
 
+<!-- about section  -->
 <h3 align="left">👨‍💻 About Me</h3>
 <ul>
     <li>🔭 I’m currently working on <b>Microservices architecture and development.</b></li>
@@ -12,11 +22,10 @@
     <li>😄 Fun fact: I don’t relax when boredom hits—I hit <b>LeetCode</b> instead.</li>
 </ul>  
 
+<!--  Variours Social links -->
 <h3 align="left">🌐 Connect with Me</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ripan-baidya-9230412a6/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/ripan-baidya-9230412a6/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://leetcode.com/u/ryan024/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="35" width="35" />
@@ -35,10 +44,8 @@
   </a>
 </p>
 
-
-
-### 🚀 Tools & Technologies
-
+<!-- Language, Framework & Tools -->
+<h3 align="left"> 🚀 Tools & Technologies</h3>
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" alt="Languages" height="35"/>
@@ -54,15 +61,15 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps & Cloud" height="35" />
 </p>
 
-
+<!-- github starts -->
 <h3 align="left">📈 GitHub Contributions</h3>
 <div align="center">
-<a href="https://github.com/ripanbaidya08">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripanbaidya08&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ripanbaidya08&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripanbaidya08&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ripanbaidya08&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ripanbaidya08&theme=2077" height="180em" />
+    <a href="https://github.com/ripanbaidya08">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripanbaidya08&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ripanbaidya08&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ripanbaidya08&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ripanbaidya08&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ripanbaidya08&theme=2077" height="180em" />
 </div>
 
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripanbaidya08&" alt="ali-bouali" /></p>

@@ -76,7 +76,10 @@
 
 <!-- leetocde details-->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ryan024?theme=unicorn&font=Roboto&ext=contest" alt="LeetCode Stats">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="ryan024's LeetCode Stats" alt="ryan024's LeetCode Stats" src="https://leetcard.jacoblin.cool/ryan024?theme=unicorn&font=Paprika&ext=activity" />
+  </a>
 </p>
+
 
 

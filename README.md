@@ -47,19 +47,23 @@
 <!-- Language, Framework & Tools -->
 <h3 align="left"> 🚀 Tools & Technologies</h3>
 <p align="left">
+
+  <!-- Ideas -->
+  <img src="https://skillicons.dev/icons?i=vscode,idea" alt="Languages" height="40"/>
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" alt="Languages" height="35"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,tailwind,js" alt="Languages" height="40"/>
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=spring,react,graphql" alt="Frameworks & Libraries" height="35" />
+  <img src="https://skillicons.dev/icons?i=spring,react,graphql" alt="Frameworks & Libraries" height="40" />
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" alt="Databases" height="35"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" alt="Databases" height="40"/>
   <!-- Build & Version Control -->
-  <img src="https://skillicons.dev/icons?i=maven,git,github" alt="Build & Version Control" height="35" />
+  <img src="https://skillicons.dev/icons?i=maven,git,github" alt="Build & Version Control" height="40" />
   <!-- Messaging & Streaming -->
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Messaging & Streaming" height="35"/>
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Messaging & Streaming" height="40"/>
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps & Cloud" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="DevOps & Cloud" height="40" />
 </p>
+
 
 <!-- github starts -->
 <h3 align="left">📈 GitHub Contributions</h3>
@@ -69,7 +73,9 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ripanbaidya08&theme=2077" height="180em" />
 </div>
 
-<p align="center" style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripanbaidya08&" alt="ripan-08" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripanbaidya08" alt="ripan-08" />
+</p>
 
 
 <h3 align="left">🏆 Leetcode Journey</h3>

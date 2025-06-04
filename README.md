@@ -68,13 +68,13 @@
 <!-- github starts -->
 <h3 align="left">📈 GitHub Profile</h3>
 <div align="center">
-    <a href="https://github.com/ripanbaidya08">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripanbaidya08&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ripanbaidya08&theme=2077" height="180em" />
+    <a href="https://github.com/baidya-ripan-024">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=baidya-ripan-024&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baidya-ripan-024&theme=2077" height="180em" />
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripanbaidya08" alt="ripan-08" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baidya-ripan-024" alt="baidya-ripan-024" />
 </p>
 
 

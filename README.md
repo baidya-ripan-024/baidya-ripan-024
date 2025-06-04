@@ -66,7 +66,7 @@
 
 
 <!-- github starts -->
-<h3 align="left">📈 GitHub Contributions</h3>
+<h3 align="left">📈 GitHub Profile</h3>
 <div align="center">
     <a href="https://github.com/ripanbaidya08">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ripanbaidya08&theme=2077" height="180em" />
@@ -78,7 +78,7 @@
 </p>
 
 
-<h3 align="left">🏆 Leetcode Journey</h3>
+<h3 align="left">🏆 Leetcode Porfile</h3>
 
 <!-- leetocde details-->
 <p align="center">

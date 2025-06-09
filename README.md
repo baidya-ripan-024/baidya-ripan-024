@@ -28,22 +28,20 @@
     - 📄 <b>Resume:</b> <a href="#" target="_blank">Download</a>
 </p>
 
-
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
 <br>
 <!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripanbaidya08&label=Profile%20views&color=0e75b6&style=flat" alt="ripan-baidya" /> </p>
 
-
 <!--  Variours Social links -->
 <h3 align="left">🌐 Connect with Me</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ripan-baidya-9230412a6/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="35" width="35"/></a>
   <a href="https://leetcode.com/u/ryan024/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="35" width="35"/></a>
   <a href="https://stackoverflow.com/users/29165803/ripan-baidya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="35"/></a>
   <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35"/></a>
   <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="35"/></a>
 </p>
-
 
 <!-- Language, Framework & Tools -->
 <h3 align="left"> 🚀 Tools & Technologies</h3>
@@ -76,9 +74,8 @@
 <!-- github starts -->
 <h3 align="left">📈 GitHub Profile</h3>
 <div align="center">
-    <a href="https://github.com/baidya-ripan-024">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baidya-ripan-024&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ripan" height="170em"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=baidya-ripan-024&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=baidya-ripan-024&theme=2077" height="180em" />
 </div>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baidya-ripan-024" alt="baidya-ripan-024" />

@@ -9,7 +9,7 @@
     <br><br>
     🚀 <b>Key Highlights:</b>
     <ul>
-         <li><b>Built scalable REST APIs</b> with secure authentication and efficient database interaction.</li>
+        <li><b>Built scalable REST APIs</b> with secure authentication and efficient database interaction.</li>
         <li><b>Hands-on experience with both Monolithic and Microservice-based architectures</b>.</li>
         <li><b>Actively using modern AI tools (like ChatGPT, GitHub Copilot, etc.)</b> to boost productivity, automate boilerplate, and accelerate development.</li>
         <li><b>Followed clean code practices</b> and used tools like Swagger, Postman, and Docker.</li>
@@ -23,9 +23,9 @@
     <br><br>
     🔗 You can explore my work further through my <b>portfolio</b> and <b>resume</b>:
     <br><br>
-    - 📁 <b>Portfolio:</b> <a href="#" target="_blank">Click here</a>  
+    - 📁 <b>Portfolio:</b> <a href="https://ripanbaidya-portfolio.vercel.app/" target="_blank">Click here</a>  
     <br>
-    - 📄 <b>Resume:</b> <a href="#" target="_blank">Download</a>
+    - 📄 <b>Resume:</b> <a href="https://drive.google.com/file/d/10PjNN8d__TS0XyRvk21qDUDPbrSnOV3O/view?usp=drive_link" target="_blank">Download</a>
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>

@@ -25,7 +25,7 @@
     <br><br>
     - 📁 <b>Portfolio:</b> <a href="https://ripanbaidya-portfolio.vercel.app/" target="_blank">Click here</a>  
     <br>
-    - 📄 <b>Resume:</b> <a href="https://drive.google.com/file/d/10PjNN8d__TS0XyRvk21qDUDPbrSnOV3O/view?usp=drive_link" target="_blank">Download</a>
+    - 📄 <b>Resume:</b> <a href="https://drive.google.com/file/d/1WP1j_kafkMP2zgYzvTbmIC47k_LAsTmA/view?usp=sharing">Download</a>
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>

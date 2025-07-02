@@ -36,12 +36,11 @@
 <!--  Variours Social links -->
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ripan-baidya-9230412a6/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="35" width="35"/></a>
+  <a href="https://www.linkedin.com/in/ripanb24/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="35" width="35"/></a>
   <a href="https://leetcode.com/u/ryan024/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="35" width="35"/></a>
   <a href="https://stackoverflow.com/users/29165803/ripan-baidya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="35"/></a>
-  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35"/></a>
-  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="35"/></a>
-</p>
+  <a href="https://www.instagram.com/rbdya20/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35"/></a>
+ 
 
 <!-- Language, Framework & Tools -->
 <h3 align="left"> 🚀 Tools & Technologies</h3>

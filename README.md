@@ -1,25 +1,23 @@
 <div align="center">
-  <img width="800" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ripan+Badya%21+%F0%9F%91%8B;Let's+Connect+%F0%9F%9A%80" />
+  <img width="800" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ripan+Baidya%21+%F0%9F%91%8B;Let's+Connect+%F0%9F%9A%80" />
 </div>
 
 <!-- about section  -->
 <h3 align="left">👨‍💻 About Me</h3>
 <p align="left">
-    I'm <b>Ripan Baidya</b>, a <b>2025 Computer Science graduate</b> with a strong foundation in <b>backend development</b> using <b>Java</b>, <b>Spring Boot</b>, and <b>Microservices</b>.
+    I'm <b>Ripan Baidya</b>, a <b>Java Full Stack Developer</b> with a strong foundation in <b>Spring Boot</b>, <b>React</b>, and <b>Microservices</b>.
     <br><br>
     🚀 <b>Key Highlights:</b>
-    <ul>
-        <li><b>Built scalable REST APIs</b> with secure authentication and efficient database interaction.</li>
-        <li><b>Hands-on experience with both Monolithic and Microservice-based architectures</b>.</li>
-        <li><b>Actively using modern AI tools (like ChatGPT, GitHub Copilot, etc.)</b> to boost productivity, automate boilerplate, and accelerate development.</li>
-        <li><b>Followed clean code practices</b> and used tools like Swagger, Postman, and Docker.</li>
-    </ul> 
+</p>
+<ul>
+    <li><b>Developed cloud-native applications</b> with a focus on scalability, maintainability, and performance.</li>
+    <li><b>Actively use modern AI tools</b> (such as ChatGPT and GitHub Copilot) to enhance productivity, automate repetitive tasks, and accelerate development.</li>
+    <li><b>Currently learning</b> System Design, Android & iOS Development, and consistently practicing Data Structures and Algorithms.</li>
+</ul>
     <br>
     💡 Outside of development, I’m also proactive on coding platforms like
     <a href="https://leetcode.com/u/baidya-ripan-024/" target="_blank"><b>LeetCode</b></a> and 
-    <a href="https://www.geeksforgeeks.org/user/belfortn67u/" target="_blank"><b>GeeksforGeeks</b></a>, where I regularly solve problems and participate in contests.
-    <br><br>
-    🎯 Currently looking for <b>Software Developer</b> opportunities where I can build impactful backend systems and make smart use of AI tools to speed up development and deliver high-quality solutions.
+    <a href="https://www.geeksforgeeks.org/user/idyariq08/" target="_blank"><b>GeeksforGeeks</b></a>, where I regularly solve problems and participate in contests.
     <br><br>
     🔗 You can explore my work further through my <b>portfolio</b> and <b>resume</b>:
     <br><br>
@@ -52,19 +50,18 @@
     <th>🎨 Frontend</th>
     <th>⚙️ Frameworks</th>
     <th>🗄️ Databases</th>
-    <th>🔧 Build & Tools</th>
-    <th>📩 Messaging</th>
+    <th>🔧 Tools</th>
     <th>☁️ DevOps</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=vscode,idea,eclipse" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=java,cpp,python" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,idea" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java,kotlin,cpp" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vue" height="40"/></td>
     <td><img src="https://skillicons.dev/icons?i=spring,hibernate,graphql" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="40"/></td>
     <td><img src="https://skillicons.dev/icons?i=maven,git,github" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=rabbitmq" height="30"/></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,jenkins,aws" height="35"/></td>
+<!--     <td><img src="https://skillicons.dev/icons?i=kafka" height="30"/></td> -->
+    <td><img src="https://skillicons.dev/icons?i=kafka,docker,jenkins,aws" height="35"/></td>
   </tr>
 </table>
 </p>

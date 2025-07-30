@@ -41,42 +41,55 @@
  
 
 <!-- Language, Framework & Tools -->
-<h3 align="left"> 🚀 Tools & Technologies</h3>
-<p align="left">
-<table align="center">
+<h3 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h3>
+<table width="100%" align="center">
   <tr>
-    <th>💻 IDEs</th>
-    <th>🖥️ Languages</th>
-    <th>🎨 Frontend</th>
-    <th>⚙️ Frameworks</th>
-    <th>🗄️ Databases</th>
-    <th>🔧 Tools</th>
-    <th>☁️ DevOps</th>
+    <td align="center" colspan="3">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🛠️%20Tools%20and%20Technologies%20&fontAlign=50&fontAlignY=40&fontSize=25" />
+    </td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=vscode,idea" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=java,kotlin,cpp" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind,vue" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,hibernate,graphql" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="40"/></td>
-    <td><img src="https://skillicons.dev/icons?i=maven,git,github" height="40"/></td>
-<!--     <td><img src="https://skillicons.dev/icons?i=kafka" height="30"/></td> -->
-    <td><img src="https://skillicons.dev/icons?i=kafka,docker,jenkins,aws" height="35"/></td>
+    <td align="center">
+      <b>💻 Languages</b><br/>
+      <img src="https://skillicons.dev/icons?i=java,kotlin,cpp" height="40" />
+    </td>
+    <td align="center">
+      <b>🎨 Frontend</b><br/>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vue" height="40" />
+    </td>
+    <td align="center">
+      <b>🔧 Backend</b><br/>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,graphql" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🗄️ Databases</b><br/>
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" height="40" />
+    </td>
+    <td align="center">
+      <b>⚙️ DevOps</b><br/>
+      <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,kafka" height="40" />
+    </td>
+    <td align="center">
+      <b>🧰 Tools</b><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea" height="40" />
+    </td>
   </tr>
 </table>
-</p>
-<br>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" /></p>
+
 
 <!-- github starts -->
-<h3 align="left">📈 GitHub Profile</h3>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baidya-ripan-024&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ripan" height="170em"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=baidya-ripan-024&theme=2077" height="180em" />
-</div>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baidya-ripan-024" alt="baidya-ripan-024" />
-</p>
+<h3 id="github-stats">Github Profile <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=baidya-ripan-024)](https://github.com/baidya-ripan-024/github-profile-trophy)
+<div align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baidya-ripan-024&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ripan" height="195em"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baidya-ripan-024" alt="baidya-ripan-024" />
+</div>
+<br>
 <!-- leetocde details-->
 <h3 align="left">🏆 Leetcode Porfile</h3>
 <p align="center">
@@ -84,5 +97,4 @@
     <img title="ryan024's LeetCode Stats" alt="ryan024's LeetCode Stats" src="https://leetcard.jacoblin.cool/ryan024?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
-
 

@@ -86,10 +86,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=baidya-ripan-024)](https://github.com/baidya-ripan-024/github-profile-trophy)
 <div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baidya-ripan-024&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ripan" height="195em"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baidya-ripan-024" alt="baidya-ripan-024" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baidya-ripan-024&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ripan" height="195em"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baidya-ripan-024" alt="baidya-ripan-024" />
 </div>
-<br>
+
 <!-- leetocde details-->
 <h3 align="left">🏆 Leetcode Porfile</h3>
 <p align="center">

@@ -17,7 +17,10 @@
 🧠 Check out my profiles on  📘 [LeetCode](https://leetcode.com/u/baidya-ripan-024/) 💚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/idyariq08/)
 
 <!-- connect with me -->
-<h3>Let's connect !<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px"></h3>
+<h3 align="left">
+  Let's connect!
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" style="margin-left: 10px;" />
+</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ripanb24/" target="_blank" title="LinkedIn">
@@ -36,7 +39,10 @@
 
 
 <!-- skills -->
-<h3>Skills<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h3>
+<h3 align="left">
+  Skills
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" style="margin-left: 10px;" />
+</h3>
 
 <div style="width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%20&fontAlign=40&fontAlignY=40&fontSize=20" style="width: 100%;" />
@@ -50,8 +56,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" style="width: 100%;" />
 </div>
 
-
-<h3 align="left"> Github Profile </h3>
+<!-- github -->
+<h3 align="left">
+  Github Profile
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="36px" style="margin-left: 10px;" />
+</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=baidya-ripan-024&show_icons=true&theme=tokyonight&hide_border=true" height="170" />

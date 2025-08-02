@@ -41,7 +41,7 @@
 <!-- skills -->
 <h3 align="left">
   Skills
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" style="margin-left: 10px;" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30px" style="margin-left: 10px;" />
 </h3>
 
 <div style="width: 100%;">
@@ -75,8 +75,10 @@
   <img src="https://komarev.com/ghpvc/?username=ripanbaidya08&label=Profile%20Views&color=0e75b6&style=flat" alt="ripan-baidya" />
 </p>
 
-
-<h3 align="left"> LeetCode Profile </h3>
+<!-- leetcode -->
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A02C&vCenter=true&width=400&lines=LeetCode+Profile;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;500%2B+Problems+Solved+%F0%9F%94%A5" alt="LeetCode Typing Animation" />
+</div>
 
 <p align="center">
   <a href="https://leetcode.com/u/ryan024/" target="_blank">
@@ -84,7 +86,13 @@
   </a>
 </p>
 
-<h3 align="left"> Github Tophies </h3>
+
+<!-- tophies -->
+<h3 align="left">
+  GitHub Trophies
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ5Njh3NzlpY2lzbXJrcnNrb2xyZG9ycGZiaTJ5d2FuOXU5YndsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w8n2baZc6j9wM/giphy.gif" width="40px" style="margin-left: 10px;" />
+</h3>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baidya-ripan-024&theme=tokyonight&no-frame=true&margin-w=10&row=1" />

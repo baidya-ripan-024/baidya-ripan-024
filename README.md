@@ -49,7 +49,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,cpp,java,kotlin,js,ts,react,tailwind,vue,figma,spring,hibernate,graphql,mysql,postgresql,mongodb,redis,docker,k8s,jenkins,aws,kafka,git,github,maven" height="120" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,cpp,java,kotlin,js,ts,react,tailwind,vite,figma,spring,hibernate,graphql,mysql,postgresql,mongodb,redis,docker,k8s,jenkins,aws,kafka,git,github,maven" height="120" />
 </p>
 
 <div style="width: 100%;">

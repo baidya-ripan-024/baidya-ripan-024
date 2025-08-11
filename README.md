@@ -80,8 +80,8 @@
 </div>
 
 <p align="center">
-  <a href="https://leetcode.com/u/ripanbaidya/" target="_blank">
-    <img title="ripanbaidya's LeetCode Stats" alt="ripanbaidya's LeetCode Stats" src="https://leetcard.jacoblin.cool/ripanbaidya?theme=unicorn&font=Paprika&ext=activity" />
+  <a href="https://leetcode.com/u/ryan024/" target="_blank">
+    <img title="ripanbaidya's LeetCode Stats" alt="ripanbaidya's LeetCode Stats" src="https://leetcard.jacoblin.cool/ryan024?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
 

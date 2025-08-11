@@ -23,7 +23,7 @@
 </h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ripanb24/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank" title="LinkedIn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="35" width="35" style="margin-right: 15px;" />
   </a>
   <a href="https://leetcode.com/u/ryan024/" target="_blank" title="LeetCode">

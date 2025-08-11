@@ -11,10 +11,10 @@
 
 <ul>
   <li><b>Developing</b> scalable, cloud-native applications</li>
-  <li><b>Currently learning:</b> System Design and  grind DSA daily</li>
+  <li><b>Currently learning:</b> System Design and grind DSA daily</li>
 </ul>
 
-🧠 Check out my profiles on  📘 [LeetCode](https://leetcode.com/u/baidya-ripan-024/) 💚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/idyariq08/)
+🧠 Check out my profiles on 📘 <a href="https://leetcode.com/u/ripanbaidya/" target="_blank">LeetCode</a> 💚 <a href="https://www.geeksforgeeks.org/user/ripanbaidya/" target="_blank">GeeksforGeeks</a>
 
 <!-- connect with me -->
 <h3 align="left">
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank" title="LinkedIn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="35" width="35" style="margin-right: 15px;" />
   </a>
-  <a href="https://leetcode.com/u/ryan024/" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/u/ripanbaidya/" target="_blank" title="LeetCode">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="35" width="35" style="margin-right: 15px;" />
   </a>
   <a href="https://stackoverflow.com/users/29165803/ripan-baidya" target="_blank" title="Stack Overflow">
@@ -36,7 +36,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" style="margin-right: 15px;" />
   </a>
 </p>
-
 
 <!-- skills -->
 <h3 align="left">
@@ -63,16 +62,16 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baidya-ripan-024&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baidya-ripan-024&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ripanbaidya&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ripanbaidya&theme=tokyonight&hide_border=true" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripanbaidya&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
+<!-- views count -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baidya-ripan-024&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ripanbaidya08&label=Profile%20Views&color=0e75b6&style=flat" alt="ripan-baidya" />
+  <img src="https://komarev.com/ghpvc/?username=ripanbaidya&label=Profile%20Views&color=0e75b6&style=flat" alt="ripanbaidya" />
 </p>
 
 <!-- leetcode -->
@@ -81,19 +80,17 @@
 </div>
 
 <p align="center">
-  <a href="https://leetcode.com/u/ryan024/" target="_blank">
-    <img title="ryan024's LeetCode Stats" alt="ryan024's LeetCode Stats" src="https://leetcard.jacoblin.cool/ryan024?theme=unicorn&font=Paprika&ext=activity" />
+  <a href="https://leetcode.com/u/ripanbaidya/" target="_blank">
+    <img title="ripanbaidya's LeetCode Stats" alt="ripanbaidya's LeetCode Stats" src="https://leetcard.jacoblin.cool/ripanbaidya?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
 
-
-<!-- tophies -->
+<!-- trophies -->
 <h3 align="left">
   GitHub Trophies
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ5Njh3NzlpY2lzbXJrcnNrb2xyZG9ycGZiaTJ5d2FuOXU5YndsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w8n2baZc6j9wM/giphy.gif" width="40px" style="margin-left: 10px;" />
 </h3>
 
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baidya-ripan-024&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ripanbaidya&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>

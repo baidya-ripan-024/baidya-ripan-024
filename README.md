@@ -14,7 +14,7 @@
   <li><b>Currently learning:</b> System Design and grind DSA daily</li>
 </ul>
 
-🧠 Check out my profiles on 📘 <a href="https://leetcode.com/u/ripanbaidya/" target="_blank">LeetCode</a> 💚 <a href="https://www.geeksforgeeks.org/user/ripanbaidya/" target="_blank">GeeksforGeeks</a>
+🧠 Check out my profiles on 📘 <a href="https://leetcode.com/u/baidya-ripan-024/" target="_blank">LeetCode</a> 💚 <a href="https://www.geeksforgeeks.org/user/idyariq08/" target="_blank">GeeksforGeeks</a>
 
 <!-- connect with me -->
 <h3 align="left">

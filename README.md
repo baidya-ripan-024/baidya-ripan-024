@@ -4,8 +4,8 @@
 
 <!-- about me -->
 <p align="left">
-  Hi, I'm <b>Ripan Baidya</b> — a <b>Java Full Stack Developer</b> currently diving deep into distributed systems and microservices. 
-  I'm also focused on improving mental health, biohacking, and overall personal development.
+  Hi, I'm <b>Ripan Baidya</b> — a <b>Java Full Stack Developer</b> currently diving deep into the world of Microservices and Distributed systems. 
+  <br> I'm also focused on improving mental health, biohacking, and overall personal development.
   <br>
 </p>
 
@@ -24,18 +24,20 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ripanbaidya/" target="_blank" title="LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="35" width="35" style="margin-right: 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://leetcode.com/u/ripanbaidya/" target="_blank" title="LeetCode">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="35" width="35" style="margin-right: 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://stackoverflow.com/users/29165803/ripan-baidya" target="_blank" title="Stack Overflow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="35" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" style="margin: 0 15px;" />
   </a>
   <a href="https://www.instagram.com/rbdya20/" target="_blank" title="Instagram">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" style="margin-right: 15px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="margin: 0 15px;" />
   </a>
 </p>
+
+
 
 <!-- skills -->
 <h3 align="left">
@@ -48,8 +50,12 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,cpp,java,kotlin,js,ts,react,tailwind,vite,figma,spring,hibernate,graphql,mysql,postgresql,mongodb,redis,docker,k8s,jenkins,aws,kafka,git,github,maven" height="120" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,cpp,java,kotlin,js,ts,react,tailwind,vite,figma,spring,hibernate" height="50" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=graphql,mysql,postgresql,mongodb,redis,docker,k8s,jenkins,aws,kafka,git,github,maven" height="50" />
+</p>
+
 
 <div style="width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" style="width: 100%;" />

@@ -101,7 +101,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/ripan_baidya/" target="_blank">
-    <img title="ripanbaidya's LeetCode Stats" alt="ripanbaidya's LeetCode Stats" src="https://leetcard.jacoblin.cool/ripan_baidya?theme=unicorn&font=Paprika&ext=activity" />
+    <img src="https://leetcard.jacoblin.cool/ripan_baidya?ext=contest" alt="LeetCode Stats"/>
   </a>
 </p>
 

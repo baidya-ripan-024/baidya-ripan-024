@@ -27,7 +27,7 @@
 </ul>
 
 
-🧠 Check out my profiles on 📘 <a href="https://leetcode.com/u/baidya-ripan-024/" target="_blank">LeetCode</a> 💚 <a href="https://www.geeksforgeeks.org/user/idyariq08/" target="_blank">GeeksforGeeks</a>
+🧠 Check out my profiles on 📘 <a href="https://leetcode.com/u/ripan_baidya/" target="_blank">LeetCode</a> 💚 <a href="https://www.geeksforgeeks.org/user/idyariq08/" target="_blank">GeeksforGeeks</a>
 
 <!-- connect with me -->
 <h3 align="left">
@@ -100,8 +100,8 @@
 </div>
 
 <p align="center">
-  <a href="https://leetcode.com/u/ryan024/" target="_blank">
-    <img title="ripanbaidya's LeetCode Stats" alt="ripanbaidya's LeetCode Stats" src="https://leetcard.jacoblin.cool/ryan024?theme=unicorn&font=Paprika&ext=activity" />
+  <a href="https://leetcode.com/u/ripan_baidya/" target="_blank">
+    <img title="ripanbaidya's LeetCode Stats" alt="ripanbaidya's LeetCode Stats" src="https://leetcard.jacoblin.cool/ripan_baidya?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
 
@@ -112,5 +112,5 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ripanbaidya&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ripanbaidya&theme=flat" />
 </p>

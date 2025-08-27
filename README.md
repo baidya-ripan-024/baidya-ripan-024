@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Ripan+Baidya%21+%F0%9F%91%8B;Let's+Connect+%F0%9F%9A%80" />
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&color=2AF7B4&vCenter=true&width=400&lines=Hi+there+%F0%9F%91%8B" />
 </div>
+
 
 <!-- about me -->
 <p align="left">

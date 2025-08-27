@@ -10,9 +10,21 @@
 </p>
 
 <ul>
-  <li><b>Developing</b> scalable, cloud-native applications</li>
-  <li><b>Currently learning:</b> System Design and grind DSA daily</li>
+  <li>Building scalable and cloud-native applications</li>
+  <li>Currently exploring: System Design & practicing DSA daily</li>
+  <li>My favorite tech stack:<br>
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55"/>
+  </li>
 </ul>
+
 
 🧠 Check out my profiles on 📘 <a href="https://leetcode.com/u/baidya-ripan-024/" target="_blank">LeetCode</a> 💚 <a href="https://www.geeksforgeeks.org/user/idyariq08/" target="_blank">GeeksforGeeks</a>
 

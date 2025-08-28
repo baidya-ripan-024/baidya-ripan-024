@@ -106,6 +106,8 @@
 </p>
 
 <!-- trophies -->
+
+<!-- 
 <h3 align="left">
   GitHub Trophies
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ5Njh3NzlpY2lzbXJrcnNrb2xyZG9ycGZiaTJ5d2FuOXU5YndsdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w8n2baZc6j9wM/giphy.gif" width="40px" style="margin-left: 10px;" />
@@ -114,3 +116,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ripanbaidya&theme=flat" />
 </p>
+
+-->
